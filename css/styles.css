@@ -1,0 +1,10 @@
+.flashy {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin: 10px auto;
+  max-width: 1000px;
+  width: 70%;
+  border-radius: 500px;
